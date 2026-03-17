@@ -43,3 +43,15 @@ _Busca archivos de manera eficiente y rápida. Elige el directorio donde deseas 
 
   ![Todos los archivos](img/7.webp)
 </details>
+
+> [!NOTE]
+> **Recomendación:**
+> <br>_Añadir FastFind como comando en tu sistema y un alias para un uso rápido._
+> <br><br>
+> **Ejemplo:**
+> <br>
+> `sudo ln -s ~/fastfind/target/release/fastfind ~/.local/bin/fastfind`
+> <br><br>
+> **Dentro de `~/.bashrc`:**
+> <br>
+> `alias ff='fastfind'`
