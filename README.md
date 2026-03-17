@@ -5,4 +5,4 @@ _Busca archivos de manera eficiente y rápida. Elige el directorio donde deseas 
 ## Comodines:
 
 - `*` : 0 o más caracteres
-- `?` : 1 caracter ; ?? : 2 caracteres ; ??? : 3 caracteres ; etc.
+- `?` : 1 caracter ; `??` : 2 caracteres ; `???` : 3 caracteres ; etc.
