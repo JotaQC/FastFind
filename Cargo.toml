@@ -1,0 +1,13 @@
+[package]
+name = "fastfind"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num_cpus = "1.17"
+regex = "1.9"
+ratatui = "0.26"
+crossterm = "0.27"
+walkdir = "2"
+rayon = "1"
+clap = { version = "4", features = ["derive"] }
