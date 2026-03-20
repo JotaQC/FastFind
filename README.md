@@ -1,6 +1,6 @@
 # FastFind
 
-_Busca archivos de manera eficiente y rápida. Elige el directorio donde deseas buscar. Usa comodines para ajustar tu búsqueda. También puedes moverte por la lista usando las teclas de dirección `⬆` y `⬇`. Además, puedes abrir estos archivos haciendo `Enter`._
+_Busca archivos de manera eficiente y rápida. Elige el directorio donde deseas buscar. Usa comodines para ajustar tu búsqueda. También puedes moverte por la lista de resultados usando las teclas de dirección `⬆` y `⬇`. Además, puedes abrir estos archivos pulsando `Enter`._
 
 ## Comodines:
 
